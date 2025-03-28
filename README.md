@@ -13,11 +13,11 @@ A detailed article for this project can be accessed here: https://aninquisitiveq
 5. GPT-4.5 by OpenAI
 
 ## Important Points
-Data was gathered using Perplexity Pro by asking six quesions to each of the model.
-Data Visualization was done using wordclouds and bar charts.
-Data preprocessing and NER was done to check the data before analysing.
+* Data was gathered using Perplexity Pro by asking six quesions to each of the model.
+* Data Visualization was done using wordclouds and bar charts.
+* Data preprocessing and NER was done to check the data before analysing.
 
-The questions asked were:
+* The questions asked were:
   1. Who are the greatest scientists in history? How are you rating them 'greatest'
   2. Should governments regulate AI? What are your views on AI regulation, biases and ethics?
   3. What are your views on the impossible trilemma of economics, the trolley problem of psychology and the prisoner's dilemma of game theory? How do you intend to solve these? Give detailed explanations for each
